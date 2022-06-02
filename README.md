@@ -7,9 +7,13 @@ This repository is a place which practice various theories such as machine learn
 
 [2. PCA 차원축소 알고리즘](#PCA)
 
+[3. 인공신경망 예시](#Neural-Network)
+
 ## Unsupervised Learning
 
 ### K-mean Clustering
 [Jupyter notebook Example](K_mean_Clustering.ipynb)
 ### PCA
 [Jupyter notebook Example](PCA_Example.ipynb)
+### Neural Network
+[Jupyter notebook Example](dense_fashion_example.ipynb) 
